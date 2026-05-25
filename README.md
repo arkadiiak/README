@@ -24,7 +24,7 @@ Currently managing full operations for a high-volume beauty salon in London — 
 
 ## 📂 Portfolio Projects
 
-### 1. 💰 [Payroll Model — Carnaby](https://github.com/arkadiiak/payroll-model)
+### 1. 💰 [Payroll Model — Main Location](https://github.com/arkadiiak/payroll-model)
 Bi-monthly payroll system for 27 staff across 4 departments. Tracks hourly rates, tips, KPI bonuses and totals. £22,500+ per period.
 
 ### 2. 📈 [Revenue Tracker — Multi-Location](https://github.com/arkadiiak/revenue-tracker)
