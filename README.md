@@ -18,28 +18,28 @@ Currently managing full operations for a high-volume beauty salon in London — 
 | **Finance** | Payroll calculation, revenue forecasting, invoicing |
 | **Payments** | Stripe, bank payment processing |
 | **Office** | Microsoft Office (Word, Excel, Outlook), Google Workspace |
-| **Languages** | English (C1), Ukrainian (Native), Polish (B2), Russian |
+| **Languages** | English (C1), Ukrainian (Native), Russian (Native), Polish (B2), German (B1) |
 
 ---
 
 ## 📂 Portfolio Projects
 
-### 1. 💰 [Payroll Model — Carnaby](./payroll-model)
+### 1. 💰 [Payroll Model — Carnaby](https://github.com/arkadiiak/payroll-model)
 Bi-monthly payroll system for 27 staff across 4 departments. Tracks hourly rates, tips, KPI bonuses and totals. £22,500+ per period.
 
-### 2. 📈 [Revenue Tracker — Multi-Location](./revenue-tracker)
+### 2. 📈 [Revenue Tracker — Multi-Location](https://github.com/arkadiiak/revenue-tracker)
 Monthly revenue forecasting for a salon with £90K monthly target. Tracks daily averages, weekly performance, goal vs actual, and completion %.
 
-### 3. 👥 [Client Retention CRM](./client-retention-crm)
+### 3. 👥 [Client Retention CRM](https://github.com/arkadiiak/client-retention-crm)
 Database of 130+ clients with spend history, visit frequency, contact status and retention outreach tracking.
 
-### 4. 🗓️ [Staff Scheduling System](./staff-scheduling)
+### 4. 🗓️ [Staff Scheduling System](https://github.com/arkadiiak/staff-scheduling)
 Monthly rota planning for 25+ staff across multiple roles. Tracks availability, days off, and daily coverage.
 
-### 5. 🎯 [KPI & Performance Tracker](./kpi-performance-tracker)
+### 5. 🎯 [KPI & Performance Tracker](https://github.com/arkadiiak/kpi-performance-tracker)
 Individual performance scoring system for nail artists. Tracks KPI scores by period with Reliable / Top-Performer ratings.
 
-### 6. ⚙️ [Operations Hub](./operations-hub)
+### 6. ⚙️ [Operations Hub](https://github.com/arkadiiak/operations-hub)
 Overview of operational systems — complaints log, equipment database, expense tracking, and supplier management.
 
 ---
@@ -82,6 +82,7 @@ University of IT and Management — Rzeszów, Poland | 2022–2025
 - **Introduction to Data Analysis using Microsoft Excel** — Coursera (2024)
 
 ---
+
 
 ## 📫 Contact
 - Email: arkadiiakucherenko@gmail.com
