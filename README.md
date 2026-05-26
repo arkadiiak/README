@@ -39,7 +39,7 @@ Monthly rota planning for 25+ staff across multiple roles. Tracks availability, 
 ### 5. 🎯 [KPI & Performance Tracker](https://github.com/arkadiiak/kpi-performance-tracker)
 Individual performance scoring system for nail artists. Tracks KPI scores by period with Reliable / Top-Performer ratings.
 
-### 6. ⚙️ [Operations Hub](https://github.com/arkadiiak/operations-hub)
+### 6. ⚙️ [Operations Hub](https://github.com/arkadiiak/-operations-hub)
 Overview of operational systems — complaints log, equipment database, expense tracking, and supplier management.
 
 ---
